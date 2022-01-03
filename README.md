@@ -1,4 +1,6 @@
-# Hi' I'm Cade Rosche, a front end web developer. 
+# Hi, I'm Cade Rosche, a front end web developer. 
+--- 
+I currently work at [Foremost Media](https://www.foremostmedia.com/) in Janesville, WI. 
 
 <!--
 **cprosche/cprosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
