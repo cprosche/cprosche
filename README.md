@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi' I'm Cade Rosche, a front end web developer. 
 
 <!--
 **cprosche/cprosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
