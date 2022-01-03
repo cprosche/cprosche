@@ -1,5 +1,5 @@
-# Hi, I'm Cade Rosche, a front end web developer. 
---- 
+# Hi, I'm Cade Rosche, a front end web developer. Check out my portfolio, [caderosche.dev](https://caderosche.dev)
+
 I currently work at [Foremost Media](https://www.foremostmedia.com/) in Janesville, WI. 
 
 <!--
