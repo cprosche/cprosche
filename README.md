@@ -2,8 +2,9 @@
 
 I currently work at [Foremost Media](https://www.foremostmedia.com/) in Janesville, WI. 
 
-<a href="https://app.daily.dev/crosche"><img src="https://api.daily.dev/devcards/333861b291c549e29e4042b8507beef4.png?r=5gv" width="200" alt="Cade Rosche's Dev Card"/></a>
-
+<p align="center">
+<a href="https://app.daily.dev/crosche"><img src="https://api.daily.dev/devcards/333861b291c549e29e4042b8507beef4.png?r=5gv" width="300" alt="Cade Rosche's Dev Card"/></a>
+</p>
 <!--
 **cprosche/cprosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
