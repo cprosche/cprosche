@@ -21,7 +21,7 @@
 </div>
 
 ### About Me
-- I'm currently working as a Front End Developer at [Foremost Media, Inc.](https://www.foremostmedia.com/) in Janesville, WI.
+- I'm currently working as a C# Full Stack Engineer at [Blain Supply (Blain's Farm & Fleet)](https://www.farmandfleet.com/) in Janesville, WI.
 - I am constantly working on various side project to improve my skills. 
 - In my free time, I love to hike and explore. 
 - I aspire to one day create a product that improves millions of people's live.
