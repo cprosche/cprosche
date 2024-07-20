@@ -21,7 +21,7 @@
 </div>
 
 ### About Me
-- I'm currently working as a C# Full Stack Engineer at [York Space Systems)](https://www.yorkspacesystems.com) in Denver, Colorado.
+- I'm currently working as a C# Full Stack Engineer at [York Space Systems](https://www.yorkspacesystems.com) in Denver, Colorado.
 - I am constantly working on various side project to improve my skills. 
 - In my free time, I love to hike and explore. 
 - I aspire to one day create a product that improves millions of people's live.
