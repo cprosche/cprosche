@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ6dDBlMDlyem1qcDcxcWlqOWZrdDJqM3c3MDhrajZ3OXJsMmg0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Am0UlfiwZcgEDOy4h/giphy.gif"
     width="400"
   />
   <p></p>
@@ -15,7 +15,7 @@
     </div>
   </div>
   <h1>
-    Hi, I'm Cade Rosche
+    Hi, I'm Cade Rosche, Space Software Engineer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
